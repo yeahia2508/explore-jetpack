@@ -1,13 +1,13 @@
-# Explore Jetpack Compose
+# Explore Jetpack Libraries
 
-Welcome to **Explore Jetpack Compose**! This repository is dedicated to exploring all the Jetpack Compose libraries by building simple, hands-on projects
+This repository is dedicated to exploring all the Android Jetpack libraries by building simple, hands-on projects
 
 ## What's Inside
 - A collection of simple projects showcasing different Jetpack Compose libraries.
 - Code samples and demos for each library.
 
 ## Goal
-The main goal of this repository is to learn and document how to use the full spectrum of Jetpack Compose libraries in various projects. This will serve as a helpful resource for anyone looking to get started with or deepen their knowledge of Jetpack Compose.
+The main goal of this repository is to learn and document how to use the full spectrum of Jetpack libraries in various projects.
 
 ## Plan to Cover Jetpack Libraries
 
